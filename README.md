@@ -80,7 +80,7 @@ The dataset includes:
 * Price vs Quantity scatter analysis
 * Interactive slicers (Gender)
 
-![Dashboard Preview]("D:\DA\Retail Sales\Dashboard.png")
+![Dashboard Preview](https://github.com/Ayushama/Retail_Sales/blob/main/Dashboard.png)
 
 ---
 
