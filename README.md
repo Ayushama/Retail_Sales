@@ -22,7 +22,9 @@ This project presents an interactive Power BI dashboard built using retail trans
 - **SQL Queries:** Sales analysis, customer segmentation, and category performance queries
 - **Power BI Dashboard:** Interactive visualization for business users
 
-  Retail_Sales/
+##  Project Structure
+```text
+Retail_Sales/
 │
 ├── data/
 │   └── retail_sales_dataset.csv
@@ -61,7 +63,7 @@ The dataset includes:
 - Price vs Quantity scatter analysis
 - Interactive slicers (Gender)
 
-  ![Dashboard Preview](<img width="1123" height="632" alt="Dashboard" src="https://github.com/user-attachments/assets/aa2d888e-7e00-4131-8161-319361307c77" />) 
+  ![Dashboard Preview](<"https://github.com/user-attachments/assets/aa2d888e-7e00-4131-8161-319361307c77" />) 
 
 ##  How to Use
 1. Download the `.pbix` file
